@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/mywebsitesamapika.com/static/css/main.d9d5f2c0.chunk.css",
-    "main.js": "/mywebsitesamapika.com/static/js/main.9ecab6f7.chunk.js",
-    "main.js.map": "/mywebsitesamapika.com/static/js/main.9ecab6f7.chunk.js.map",
-    "runtime-main.js": "/mywebsitesamapika.com/static/js/runtime-main.72e5b844.js",
-    "runtime-main.js.map": "/mywebsitesamapika.com/static/js/runtime-main.72e5b844.js.map",
-    "static/js/2.d3694141.chunk.js": "/mywebsitesamapika.com/static/js/2.d3694141.chunk.js",
-    "static/js/2.d3694141.chunk.js.map": "/mywebsitesamapika.com/static/js/2.d3694141.chunk.js.map",
-    "index.html": "/mywebsitesamapika.com/index.html",
-    "precache-manifest.958774d5dfcf231f0158b08470249123.js": "/mywebsitesamapika.com/precache-manifest.958774d5dfcf231f0158b08470249123.js",
-    "service-worker.js": "/mywebsitesamapika.com/service-worker.js",
-    "static/css/main.d9d5f2c0.chunk.css.map": "/mywebsitesamapika.com/static/css/main.d9d5f2c0.chunk.css.map",
-    "static/js/2.d3694141.chunk.js.LICENSE.txt": "/mywebsitesamapika.com/static/js/2.d3694141.chunk.js.LICENSE.txt",
-    "static/media/logo.png": "/mywebsitesamapika.com/static/media/logo.ba20fc9a.png"
+    "main.css": "/static/css/main.d9d5f2c0.chunk.css",
+    "main.js": "/static/js/main.9ecab6f7.chunk.js",
+    "main.js.map": "/static/js/main.9ecab6f7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1c2d59f4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1c2d59f4.js.map",
+    "static/js/2.d3694141.chunk.js": "/static/js/2.d3694141.chunk.js",
+    "static/js/2.d3694141.chunk.js.map": "/static/js/2.d3694141.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.dedfe80fafe4751d92c676fafc152044.js": "/precache-manifest.dedfe80fafe4751d92c676fafc152044.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d9d5f2c0.chunk.css.map": "/static/css/main.d9d5f2c0.chunk.css.map",
+    "static/js/2.d3694141.chunk.js.LICENSE.txt": "/static/js/2.d3694141.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/static/media/logo.ba20fc9a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.72e5b844.js",
+    "static/js/runtime-main.1c2d59f4.js",
     "static/js/2.d3694141.chunk.js",
     "static/css/main.d9d5f2c0.chunk.css",
     "static/js/main.9ecab6f7.chunk.js"
