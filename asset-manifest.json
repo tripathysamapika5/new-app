@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/new-app/static/css/main.d9d5f2c0.chunk.css",
-    "main.js": "/new-app/static/js/main.9ecab6f7.chunk.js",
-    "main.js.map": "/new-app/static/js/main.9ecab6f7.chunk.js.map",
-    "runtime-main.js": "/new-app/static/js/runtime-main.3c9450b4.js",
-    "runtime-main.js.map": "/new-app/static/js/runtime-main.3c9450b4.js.map",
-    "static/js/2.d3694141.chunk.js": "/new-app/static/js/2.d3694141.chunk.js",
-    "static/js/2.d3694141.chunk.js.map": "/new-app/static/js/2.d3694141.chunk.js.map",
-    "index.html": "/new-app/index.html",
-    "precache-manifest.993b8b706cbd846a6ee97d495f27ebbe.js": "/new-app/precache-manifest.993b8b706cbd846a6ee97d495f27ebbe.js",
-    "service-worker.js": "/new-app/service-worker.js",
-    "static/css/main.d9d5f2c0.chunk.css.map": "/new-app/static/css/main.d9d5f2c0.chunk.css.map",
-    "static/js/2.d3694141.chunk.js.LICENSE.txt": "/new-app/static/js/2.d3694141.chunk.js.LICENSE.txt",
-    "static/media/logo.png": "/new-app/static/media/logo.ba20fc9a.png"
+    "main.css": "/mywebsitesamapika.com/static/css/main.d9d5f2c0.chunk.css",
+    "main.js": "/mywebsitesamapika.com/static/js/main.9ecab6f7.chunk.js",
+    "main.js.map": "/mywebsitesamapika.com/static/js/main.9ecab6f7.chunk.js.map",
+    "runtime-main.js": "/mywebsitesamapika.com/static/js/runtime-main.72e5b844.js",
+    "runtime-main.js.map": "/mywebsitesamapika.com/static/js/runtime-main.72e5b844.js.map",
+    "static/js/2.d3694141.chunk.js": "/mywebsitesamapika.com/static/js/2.d3694141.chunk.js",
+    "static/js/2.d3694141.chunk.js.map": "/mywebsitesamapika.com/static/js/2.d3694141.chunk.js.map",
+    "index.html": "/mywebsitesamapika.com/index.html",
+    "precache-manifest.958774d5dfcf231f0158b08470249123.js": "/mywebsitesamapika.com/precache-manifest.958774d5dfcf231f0158b08470249123.js",
+    "service-worker.js": "/mywebsitesamapika.com/service-worker.js",
+    "static/css/main.d9d5f2c0.chunk.css.map": "/mywebsitesamapika.com/static/css/main.d9d5f2c0.chunk.css.map",
+    "static/js/2.d3694141.chunk.js.LICENSE.txt": "/mywebsitesamapika.com/static/js/2.d3694141.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/mywebsitesamapika.com/static/media/logo.ba20fc9a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3c9450b4.js",
+    "static/js/runtime-main.72e5b844.js",
     "static/js/2.d3694141.chunk.js",
     "static/css/main.d9d5f2c0.chunk.css",
     "static/js/main.9ecab6f7.chunk.js"
